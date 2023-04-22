@@ -11,9 +11,13 @@
   "dependencies": {
     "element-plus": "^2.3.3",
     "pinia": "^2.0.34",
-    "vue": "^3.2.47"
+    "vue": "^3.2.47",
+    "vuedraggable": "^4.1.0"
   },
   "devDependencies": {
+    "@types/vue": "^2.0.0",
+    "@types/vuedraggable": "^2.24.0",
+    "@types/node": "^18.15.13",
     "@vitejs/plugin-vue": "^4.1.0",
     "autoprefixer": "^10.4.14",
     "postcss": "^8.4.21",
