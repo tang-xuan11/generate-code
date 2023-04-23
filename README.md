@@ -2,3 +2,4 @@
 
 ## install 
 ### pnpm install
+### check gpg key
