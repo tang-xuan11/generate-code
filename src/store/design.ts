@@ -7,6 +7,5 @@ export const useDesignStore = defineStore("design", () => {
   function addWidgetList(widget: Widget) {
     widgetList.value.push(widget);
   }
-
   return { widgetList, addWidgetList };
 });
